@@ -1,0 +1,43 @@
+body{
+    background-color:#cbdcdd;
+}
+.navbar {
+    background-color: #6F8686;
+
+}
+.logo {
+    height: 42px;
+    width: 105px;
+}
+a.nav-link {
+    color: white;
+}
+.btn btn-success {
+    padding: 12px 16px; 
+    font-size: 16px;
+}
+.image {
+    position: relative;
+    top: 100px;
+}
+.image.button {
+        position: relative;
+        top: 20px;
+        left: 30px;
+    }
+.offer a{
+    text-decoration:none;
+    color:black;
+}
+.navbar.bg-body-tertiary{
+    position:relative;
+    width:335px;
+}
+.image .col-md-8 .offer ul li .body {
+    color: #2874f0;
+    font-weight: 500;
+    display: inline-block;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
